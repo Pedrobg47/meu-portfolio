@@ -1,0 +1,11 @@
+PORTFÓLIO — PRONTO PARA PUBLICAÇÃO NA VERCEL
+
+Projetos: Camargo Digital (link público) e DryCapets (prévia ilustrativa, aguardando arquivos reais).
+
+COMO PUBLICAR
+1. Faça upload da pasta no GitHub em um repositório.
+2. Na Vercel, escolha Add New > Project e importe o repositório.
+3. Framework Preset: Other. Root Directory: ./ . Clique Deploy.
+
+IMPORTANTE: substitua SEUEMAIL@EXEMPLO.COM no index.html antes de compartilhar.
+Para disponibilizar DryCapets aos clientes é necessário ter os arquivos do projeto (ZIP da pasta do VS Code) e publicá-lo; localhost não é acessível publicamente.
